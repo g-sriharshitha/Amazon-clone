@@ -1,4 +1,4 @@
 # Amazon-clone
-This is a clone of  amazon homepage using html, css.
+This is my git demo learning
 <br>
 Author: Sri Harshitha Gummadi
